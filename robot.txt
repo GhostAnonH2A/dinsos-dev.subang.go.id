@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: dinsos-dev.subang.go.id/akun-pro/sitemap.xml
